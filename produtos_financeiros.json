@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "Renda Fixa",
+    "nome": "Tesouro Selic",
+    "descricao": "Título público pós-fixado atrelado à taxa Selic.",
+    "risco": "Baixíssimo"
+  },
+  {
+    "tipo": "Renda Fixa",
+    "nome": "CDB Liquidez Diária",
+    "descricao": "Certificado de Depósito Bancário com garantia do FGC.",
+    "risco": "Baixo"
+  }
+]
